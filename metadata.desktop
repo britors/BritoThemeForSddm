@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Brito Theme
+Description=Brito Theme For Plasma 6
+Author=l4k1
+License=GPLv.3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=rodrigo@w3ti.com.br
+Theme-Id=Brito Theme
+Theme-API=2.11
+QtVersion=6
